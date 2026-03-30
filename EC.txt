@@ -1,0 +1,632 @@
+Operator
+0:00:00
+Greetings, and welcome to the Plug Power Q4 and Year-End 2025 Earnings Conference Call and Webcast. At this time, all participants are in listen only mode. A question-and-answer session will follow the formal presentation. You may be placed in the question queue at any time by pressing star one on your telephone keypad. As a reminder, this conference is being recorded. It's now my pleasure to turn the call over to Teal Hoyos, Vice President, Marketing and Communications. Please go ahead, Teal.
+
+Teal Hoyos
+VP of Marketing and Communications
+0:00:30
+Thank you. Welcome to the 2025 Fourth Quarter Earnings Call. This call will include forward-looking statements. These forward-looking statements contain projections of our future results of operations, of our financial position or other forward-looking information. We intend these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. We believe that it is important to communicate our future expectations to investors. However, investors are cautioned not to unduly rely on forward-looking statements, and such statements should not be read or understood as a guarantee of future performance or results.
+
+Teal Hoyos
+VP of Marketing and Communications
+0:01:20
+Such statements are subject to risks and uncertainties that could cause actual results or performance to differ materially from those discussed as a result of various factors, including, but not limited to, risks and uncertainties discussed under Item 1A, Risk Factors in our annual report on Form 10-K for the fiscal year ending December 31st, 2024, our quarterly reports on Form 10-Q for the quarters ending March 31st, 2025, June 30th, 2025, and September 31st, 2025, as well as other reports we file from time to time with the SEC. These forward-looking statements speak only as of the day in which the statements are made, and we do not undertake or intend to update any forward-looking statements after this call or as a result of new information.
+
+Teal Hoyos
+VP of Marketing and Communications
+0:02:11
+At this point, I would like to turn the call over to Plug Power's new CEO, Jose Luis Crespo.
+
+Jose Luis Crespo
+President and CEO
+0:02:19
+Good afternoon, everyone. Thank you for joining us. As many of you know, today is my first earnings call as CEO. I would like to begin by acknowledging the foundation I am inheriting. Andy led this company for almost 20 years with vision and determination, building Plug into a global leader in the green hydrogen ecosystem. That is a platform few CEOs are fortunate to inherit, and I am grateful for it. My mandate is clear. I will work to convert this leadership position into sustained profitable growth. I have been part of building this company, setting and executing on its strategy. I deeply understand both the opportunity in front of us and the discipline required to realize it.
+
+Jose Luis Crespo
+President and CEO
+0:03:15
+We entered 2025 focused on these objectives: grow the top line, improve margins, targeting margin neutral in Q4, reduce cash usage, expand hydrogen production, including commissioning the Louisiana plant, all while strengthening liquidity. We deliver against those objectives. In 2025, we achieved approximately 30% revenue growth while turning gross positive margin in the fourth quarter. Gross margin improved by 125 percentage points from negative 122.5% in Q4 2024 to positive 2.4% in Q4 2025. A 125 percentage point improvement in gross margin is a meaningful milestone in strengthening our operating performance. The results we delivered were not accidental. They reflect ambition paired with discipline, focused execution, and the hard work of the entire Plug team. 2025 was a defining year for Plug.
+
+Jose Luis Crespo
+President and CEO
+0:04:36
+In a highly uncertain macroeconomic environment, we grew revenue at double-digit rates and achieved positive margin. A combination that has been challenging for many companies in our sector. We believe this represents an inflection point. That said, we are not done. We still have work to do to achieve sustained profitability while maintaining growth. My responsibility now is to build on this momentum and continue progressing toward profitability. In 2026, our focus remain on advancing toward profitable growth. We currently expect revenue growth in 2026 to be directionally comparable to 2025, driven primarily by our material handling and electrolyzer business. In material handling, favorable conditions have emerged. The reinstatement of the Investment Tax Credit in January, combined with increased demand from pedestal customers such as Amazon and Walmart, positioned us for renewed growth in this segment.
+
+Jose Luis Crespo
+President and CEO
+0:05:51
+We are seeing new developments and fleet refresh programs at key customer sites, while activity increased across both new and repeat customers. Our electrolyzer business continues to develop and expand globally. Today, the company has shipped over 300 MW of our GenEco electrolyzers globally and are now deployed on six continents, demonstrating significant operating experience across multiple markets. In 2025, we delivered equipment for major projects, including a 25 MW project with Iberdrola and BP in Spain and a 100 MW project with Galp in Portugal, resulting in a record $188 million in electrolyzer revenue. Europe regulatory mandates and funded incentive programs provide a structural support for hydrogen adoption. We see significant opportunity in refinery decarbonization and in the production of e-methane, e-methanol, synthetic jet fuel and ammonia.
+
+Jose Luis Crespo
+President and CEO
+0:07:03
+We estimate that meeting European mandates just for transportation could require 4 GW-6 GW of electrolyzer capacity by 2030, and we intend to compete for a meaningful portion of that opportunity. We remain focused on converting as much as possible of our approximately $8 billion electrolyzer funnel into revenue-generating projects that will support Plug's long-term growth. In 2026, we expect to begin executing projects with Carlton and Schroders Greencoat in the U.K., and we will continue progressing with Allied Green Ammonia towards FID on the 3 GW project in Australia and the 2 GW project in Uzbekistan. As an example of the activity in the market, over the last two months, we executed 750 MW of new basic engineering design packages agreements.
+
+Jose Luis Crespo
+President and CEO
+0:08:00
+In 2026, we expect to see full year benefit of the Quantum Leap initiatives launched in 2025. These improvements are expected to be further supported by continued cost reductions and optimization efforts across the business. Together with revenue growth, these actions position us to achieve positive EBITDAs in the fourth quarter of 2026, consistent with our previously stated targets. We also intend to continue reducing cash usage in 2026. We ended 2025 with $368.5 million in unrestricted cash. We currently expect continued improvement in cash usage similar to the reduction achieved in 2025.
+
+Jose Luis Crespo
+President and CEO
+0:08:49
+With ongoing cash flow improvements and the planned $275 million proceeds from the monetization of assets and associated rights announced in Q4 2025, which we expect to close in the first half of 2026, we believe we are well-positioned to support our operation plans through 2026. In conclusion, we continue our journey towards profitability. 2025 was about margin progression, optimizing the platform we have built, enforcing cost discipline, strengthening infrastructure control, improving liquidity, and sharpening our strategic focus. 2026 will be about continued sales growth and advancing the financial milestones outlined in our roadmap, including our target of achieving positive EBITDAs in Q4 2026, a milestone within our roadmap towards positive operating income in 2027 and full profitability in 2028. I will now turn the call over to Paul for a detailed review of the fourth quarter and full year financial results. Paul.
+
+Paul Middleton
+CFO
+0:10:03
+Thanks a lot, Jose Luis. Let me first expand on the margin results. The significant improvement we achieved stems from a culmination of efforts over the last two years to optimize and scale the investments we have made. We've made a conscious effort to really focus on margin and cash flow improvement, and this includes multiple actions undertaken within Project Quantum Leap and our overall product cost down roadmaps. More specifically, in Q4, the results benefited from significant improvements in the unit service costs, achieving rates almost half of what they were over a little over a year ago. Ramping our hydrogen platform through our three facilities, including Louisiana, that was turned on and scaled up this year. Scaling sales volume as increased sales provides tremendous incremental overhead leverage. Continued discipline and scrutiny over discretionary spending.
+
+Paul Middleton
+CFO
+0:11:00
+Equally important to these Q4 results is the fact that we see this progress as a platform to continue driving towards our 2026 financial targets. Regarding cash usage, we saw improvements throughout the year. These actions were associated with Project Quantum Leap and included targeted price increases, labor optimization, rooftop consolidations, improvements in production costs, and leveraging our hydrogen platform, a clear focus on reducing our OpEx resource investment. We expect 2026 to include a full year of benefits from these activities undertaken last year. In addition, we see significant upside to continue this optimization effort and drive even more leverage as we grow sales.
+
+Paul Middleton
+CFO
+0:11:47
+We anticipate continued improvement, incremental leverage from growth in equipment sales given our capacity, continued improvements in our service cost profile, additional improvements in fuel efficiency and network leverage, and continued scrutiny over OpEx of resources. We continue to be laser focused on driving growth and margins and cash flows and near term and achieving our Q4 goal of positive EBITDA. Despite the progress we made, as conveyed in our filing, we determined it was prudent for Plug to record a net $763 million in various charges associated predominantly with non-cash charges for asset impairments and the capital transactions we undertook in Q4. The impairment charges stem from multiple factors, including overall market conditions resulting in slower growth than anticipated for certain products.
+
+Paul Middleton
+CFO
+0:12:41
+In terms of the impairments, this relates to property, plant and equipment, intangible assets, and assets associated with power purchase agreements and fuel. As a result of these impairments, it will reduce our future amortization depreciation 2026 and onward. In terms of liquidity, as Jose mentioned, we ended with over $368 million in unrestricted cash. We recently executed the first of three transactions associated with monetizing the $275 million for the data center project sales. We have an effectively unleveraged balance sheet given our debt restructuring we undertook, which also lowered our cost of capital and extended the maturity. We have also significantly curtailed our CapEx expenses, and we believe we have the platform we need to deliver our financial goals to anticipate even lower CapEx rates in 2026.
+
+Paul Middleton
+CFO
+0:13:35
+These factors, coupled with the focus on improvement in margins and cash flows, put us in a strong position to achieve our near-term and mid-term financial goals and fund our operating plan for 2026. GAAP EPS for Q4 2025 was -$0.63 compared to GAAP EPS of -$1.48 for Q4 2024. If we exclude the unusual charges in each period, Adjusted EPS for Q4 2025 was -$0.06 versus Adjusted EPS for Q4 2024 of -$0.29. The progression in this is just another illustration of how operationally the company is making progress holistically in growing overall sales and margin profiles. I'll now turn the call back over to Jose Luis.
+
+Jose Luis Crespo
+President and CEO
+0:14:23
+Thank you, Paul. We will now open the call for questions.
+
+Operator
+0:14:28
+Thank you. We'll now be conducting a question-and-answer session. If you'd like to be placed in the question queue, please press star one on your telephone keypad. We ask you please ask one question and one follow-up, then return to the queue. Once again, it's star one to be placed in the question queue. If you'd like to remove your question from the queue, please press star two. A confirmation tone will indicate your line is in the question queue when you press star one. Our first question today is coming from Colin Rusch from Oppenheimer. Your line is now live.
+
+Colin Rusch
+Managing Director
+0:15:00
+Guys, congratulations on the progress here. As you look at 2026 from a revenue growth perspective, can you just give us a bit more color around which drivers are actually moving the needle from a growth perspective? It looks like you're talking about kind of low double-digit growth overall. I'm just curious if there's one part of the product business that's actually making an outsized impact on that growth.
+
+Jose Luis Crespo
+President and CEO
+0:15:25
+Hi, Colin. How are you? So for 2026, as I mentioned, we are projecting similar growth as we saw in 2025, and the main drivers for that growth are gonna be material handling. What we're seeing in material handling is, our pedestal customers are going back to growth. We're also seeing refreshes. Some of the sites that we have with some of the pedestal customers are, sites that have been running between five and six, seven years. Time to refresh. We see an uptick on that. We also see new customers. As you know, we signed Floor & Decor last year, but we see other customers coming online in 2026. Also the value proposition is just getting stronger, and I think we mentioned these during the symposium.
+
+Jose Luis Crespo
+President and CEO
+0:16:20
+Our customers are beginning to see also that the material handling fuel cell solution allows them to reduce their utility demand on their sites, which is really valuable for customers in days where we all know that utility and electricity availability is becoming more challenging. That's not the only area that we're gonna see growth. As I mentioned in the electrolyzer business, we also see growth and opportunities. We just signed at the end of 2025, we announced that the agreement with Carlton Power for 55 MW, and we are looking at, in the next couple of months or so, signing a similar agreement for another project in Australia.
+
+Jose Luis Crespo
+President and CEO
+0:17:10
+We have a lot of the projects that we have in the funnel are beginning to move farther into FID, so we are expecting to see also growth in the electrolyzer business. Those are gonna be the two main drivers for growth in 2026.
+
+Colin Rusch
+Managing Director
+0:17:27
+Excellent. Guys, when you look at the fuel margins and the cost of that fuel, you know, I know you're getting better at optimizing some of the production costs and timing around that, but I'm just curious about how quickly you can start driving some of those margins closer to breakeven on the fuel side.
+
+Paul Middleton
+CFO
+0:17:50
+Yeah. Thanks, Colin. you know, I think just to be clarify, if we kind of look back and we think about some of the things we've done, I mean, obviously turning on these three plants and vertically integrating puts us in a great position. We've seen that in the benefits in our results. we see that continuing to trend upwards. you know, we've been on this maturity curve of optimizing those facilities. We hit all-time records in the Georgia plant for many of the months in 2025. We've seen a progression in the utilization and efficiency of the newer plant, Louisiana, as we've turned that on this year and scaled that up.
+
+Paul Middleton
+CFO
+0:18:30
+One thing we expect for 2026 is obviously better leverage on those facilities now that we've, you know, can take those learnings and run those plants even more efficiently. Second thing is, obviously, we're adding, as Jose mentioned, more sites, you know, more material handling customers, and a lot of that we're gonna feed through those plants, and so you get greater volume leverage, which is important. We've shown progression in our, you know, logistics network and how we can drive greater efficiency through that.
+
+Paul Middleton
+CFO
+0:19:04
+The last, one of the other challenges that we've been focused on and really made tremendous progress is the efficiencies at the site in terms of how the systems offer, the recapture of the gas, how do you make sure that you minimize any loss of the molecule through the system. The combination of those things, coupled with the new agreement we signed with the third-party gas company last year that's reduced prices, but also put us on a platform of working with them to optimize the network with, you know, which sites are sourced from which plants. All of those factors are what's been driving the improvement and gonna see additional improvement this year. I think we're gonna directionally be moving there as we progress through the year.
+
+Paul Middleton
+CFO
+0:19:48
+You know, part of it will be tied to, you know, the timing of turning on some of these volume and getting additional leverage out of those facilities as the year progresses. You know, we expect that we have been, and we expect that we're gonna continue to move in the right direction in that, in that regard through the course of the year.
+
+Colin Rusch
+Managing Director
+0:20:04
+Excellent. Thanks so much, guys.
+
+Jose Luis Crespo
+President and CEO
+0:20:06
+Thank you.
+
+Operator
+0:20:08
+Thank you. Next question today is coming from Craig Irwin from Roth Capital Partners. Your line is now live.
+
+Craig Irwin
+Managing Director and Senior Research Analyst
+0:20:14
+Good evening. Thanks for taking my questions. First one I wanted to ask about is just an update on the cash needs this year. You guys did a great job last year, $368 million in unrestricted cash, next thing the year. You know, you got your cash burn, you know, down dramatically year-over-year. You know, you've put in place the $275 in asset sales. You're obviously continuing to execute on the restricted cash for your PPAs, your historical PPAs as those roll off.
+
+Craig Irwin
+Managing Director and Senior Research Analyst
+0:20:52
+I guess as you make new sales, which is good, but can you maybe help us understand the tempo of cash needs across this year now that we don't have some of these big construction projects and that you've taken all these other steps to put in place, you know, the actions to get to positive EBITDA?
+
+Jose Luis Crespo
+President and CEO
+0:21:10
+Thank you for the question, Craig. Paul, do you wanna cover that?
+
+Paul Middleton
+CFO
+0:21:13
+Thanks, Craig, and good to hear from you, man. A couple things. One, if you look at the progression the last couple years, you know, just in the improvements in margin and just overall profitability and how that's been playing, as well as our leverage of our working capital, you've seen, you know, the reduction in operating cash flows and cash burn in general. You've also seen a big reduction in the CapEx. I mean, I think if you look at the Q4 rates, you know, they have one of the lowest CapEx rates we've had in a long time.
+
+Paul Middleton
+CFO
+0:21:45
+It postures us really well because we expect, you know, certainly as we talk about our financial targets this year and getting to EBITA, you know, breakeven to positive in Q4, you know, we expect a similar reduction, you know, in the cash burn as we've experienced the last couple of years. If you just look at that mathematically, coupled with a very, you know, nominal CapEx rate, it mathematically puts you in a position where, you know, the opening cash position we have is almost enough to cover it all. Obviously, you know, the $275 puts us in a great position to fund the year.
+
+Paul Middleton
+CFO
+0:22:21
+you know, we sit today and our working plan is that we've got more than adequate existing capital and access to that capital that's coming in through those projects to fund this year without needing incremental capital. I do have optionality. I have an unleveraged balance sheet. It's not my preference to go out and get debt. now that we've restructured the debt, you know, I've got an incredibly low cost of capital structure in place right now in that 7% range. I'm in a good spot overall in terms of lots of other factors. There's other positive things that are happening, like, you know, we've gotten passed through some of the acquisitions and the earn-outs, and we've got some of those things behind us.
+
+Paul Middleton
+CFO
+0:23:02
+We've really tempered the JV investments. You know, a lot of things have just been very, put us in a good position where just the overall cash needs have dropped substantially. I guess in conclusion, you know, and if you look at seasonality of the, of the sales, with the 1/3, 2/3 you know, you can expect probably a little bit heavier burn in the first half. As the, you know, volume grows in the second half and we convert those into collections and leverage even more inventory, you know, it'll even be better in the second half. As we sit today, given the working capital position, you know, for me, EBITA is kind of a proxy of cash flows.
+
+Paul Middleton
+CFO
+0:23:37
+You could almost, you know, I think there's a decent chance we might even get to, you know, break even to positive cash flows in the Q4, not just the EBITA, KPI as well. I think hopefully that helps, Craig.
+
+Craig Irwin
+Managing Director and Senior Research Analyst
+0:23:50
+Fantastic. That's very helpful. Along a similar theme, right? Your new project, new sales commitments that you're making today are obviously made with a different discipline than you had in the market a few years ago with the pricing changes and, you know, the complete focus on profitability now at Plug. You know, can you maybe just give us a little bit more color on the 750 MW new engineering design package agreements you signed in the quarter? Are customers paying for these engineering packages up front now? What do we see as a potential timeline for some of these fresh new orders to come through and potentially materialize as bookings and then revenue? You know, how do we look at these opportunities?
+
+Craig Irwin
+Managing Director and Senior Research Analyst
+0:24:38
+Is this mostly a new set of customers or has this got significant overlap with the existing customer base?
+
+Jose Luis Crespo
+President and CEO
+0:24:45
+Craig, thank you. I just gonna, you know, clarify is focus on profitability through growth. Growth is a very important part of our strategy. Yes, the 750 MW of BEDPs that we have signed and started working in the last few months are all new projects. Some projects are in North America, couple of them are in North America. We also have projects in Europe. The timeline is a little bit different for each one of them.
+
+Jose Luis Crespo
+President and CEO
+0:25:21
+A couple of them are, at least at the moment, the FID timeline is into 2017, but there is one project that actually we are replacing an existing or a prior electrolyzer company that is no longer going to be doing this project, and they have picked us to do this BEDP for them. You can, you know, infer probably what what the company is. That project is already pretty advanced, and what we're doing right now is basically doing a very quick BEDP, and that project has probabilities to be FID in 2026. A little bit of a different timeline for the different projects, but all of them are in the next 12-24 months in the current planning for the FIDs.
+
+Craig Irwin
+Managing Director and Senior Research Analyst
+0:26:16
+Understood. Congratulations on the progress here. Thank you.
+
+Jose Luis Crespo
+President and CEO
+0:26:19
+No, thank you.
+
+Operator
+0:26:22
+Thank you. As a reminder, that's star one to be placed in the question queue. Our next question is coming from Eric Stine from Craig-Hallum. Your line is now live.
+
+Luke Persons
+Equity Research Analyst
+0:26:31
+Hey, this is Luke on for Eric. Thanks for taking our questions. first one here. Just how do you expect activity on the hydrogen pipeline front in Europe to progress after last month's delivery announcement in the Netherlands? Should we expect to see further inroads there in 2026?
+
+Jose Luis Crespo
+President and CEO
+0:26:45
+Hi, Luke. You mean like, the deployment or the development of the actual pipeline in the European market?
+
+Luke Persons
+Equity Research Analyst
+0:26:53
+Yeah. Just potential inroads that Plug might be making there in 2026 and beyond.
+
+Jose Luis Crespo
+President and CEO
+0:27:01
+If I understand correctly the question, the pipeline that you're referring to is in the Netherlands, which it was announced a couple of years ago that we're continuing to do the deployment in that pipeline. What Plug and in general the industry benefits from is that having a pipeline allows us to basically have a offtaker for generation. What we see, for example, in the Netherlands, we have several projects that we are discussing of companies that are looking into generating to put into that pipeline in particular. It's a positive development in the industry, and it will help with projects going FID given that they can deliver hydrogen to that pipeline. Don't know if that answers your question, Luke?
+
+Luke Persons
+Equity Research Analyst
+0:27:55
+No, I think so. That's helpful. Thanks for the color. Just as a quick follow-up here, quickly on the data center opportunity, I mean, you pointed it out last quarter as having potential for hydrogen-based backup power, obviously framed as very early stages. Just wondering if you had any updated thoughts on potential use cases in this market. Thanks.
+
+Jose Luis Crespo
+President and CEO
+0:28:14
+For the particular case of the data center opportunity, we agreed with Stream that we were gonna be working on potential applications. We have been concentrating with them right now on closing the deal itself, but open discussion on what we could use fuel cells for. At this moment, we are concentrating in closing the deal and in terms of applications, we're gonna start discussing with them about what stationary applications we could launch together once the deal is closed.
+
+Luke Persons
+Equity Research Analyst
+0:28:51
+Understood. Thank you.
+
+Jose Luis Crespo
+President and CEO
+0:28:54
+You're welcome, Luke.
+
+Operator
+0:28:56
+Thank you. Next question today is coming from Jason Tilchen from Canaccord Genuity. Your line is now live.
+
+Jason Tilchen
+Director and Senior Equity Research Analyst
+0:29:03
+Good afternoon, thanks for taking my question. With regard to material handling, I think on the last call you said this is a $14 billion opportunity overall, and you've only really started to scratch the surface with this. Obviously, the price and availability of hydrogen is clearly a major gating factor. I'm curious, beyond that, what are some of the other things within your control that the company can do to sort of help capture an incrementally greater share of that opportunity going forward?
+
+Jose Luis Crespo
+President and CEO
+0:29:27
+We're working with all of our main customers, pedestal customers, like Amazon and Walmart, making sure that they can extract as much value of the technology as possible. One of the things that we are seeing, I think I mentioned that before, is that many of our customers are seeing the value of the utility advantages of using fuel cells. For many of our customers, they need between 1 MW and 2 MW to power batteries, if they use batteries in their distribution centers. When you use fuel cells, you open up that capacity for other uses or actually just, you know, to be able to reduce consumption and connection to the grid.
+
+Jose Luis Crespo
+President and CEO
+0:30:16
+Those type of things are the type of things that little by little we are discovering and working with customers to understand better how they can take advantage of the technology and to make sure that the business case can be expanded to as many applications within material handling as possible. We believe that as time goes by, we will be able to unlock further markets within the material handling business.
+
+Jason Tilchen
+Director and Senior Equity Research Analyst
+0:30:41
+Great. That's very helpful. One follow-up. In the release, you talked about launching multiple follow-on actions to continue reducing costs and improving cash flow in 2026. Wondering if you could share a bit more about specifics of some of those initiatives.
+
+Jose Luis Crespo
+President and CEO
+0:30:54
+You wanna go over that, Paul?
+
+Paul Middleton
+CFO
+0:30:55
+Yeah. I think, you know, we are constantly looking at things like our bill of materials or designs. You know, we have opportunities to look at our manufacturing processes and think about how to streamline those. You know, we're thinking about, you know, where we deliver from a distribution standpoint, a fabrication standpoint, our network for electrolyzers, as an example. You know, there's just a... You know, If you look at the last 10, 12 years, you know, the things that we've done and from looking at, you know, working with vendors on the supply cost to, you know, structures what we have with how we manage the supply chain to, you know, our manufacturing processes to, you know, even additional ways to optimize facilities.
+
+Paul Middleton
+CFO
+0:31:43
+As we continue to reduce inventory, we need less warehouses as an example. You know, we look at it holistically, and there's. You know, we believe we're still very early in the curve of opportunities over the next couple of years. Those are just some of the examples and ideas of things that we have active efforts around. You know, we've had some very conscious efforts the last two years to deliver these specific targets and improvements. We think that it's just, you know, themes that we can continue to optimize the overall company to continue driving the margin profile.
+
+Jason Tilchen
+Director and Senior Equity Research Analyst
+0:32:17
+Great. Thank you very much.
+
+Jose Luis Crespo
+President and CEO
+0:32:19
+Thank you.
+
+Operator
+0:32:21
+Thank you. Next question is coming from Chris Dendrinos from RBC Capital Markets. Your line is now live.
+
+Chris Dendrinos
+VP
+0:32:28
+Yeah. Thank you. Hi. Maybe just to echo the congratulations on the, on the positive view that positive gross margins this quarter.
+
+Jose Luis Crespo
+President and CEO
+0:32:36
+Thank you.
+
+Chris Dendrinos
+VP
+0:32:37
+You know, following up on the last question, you know, the press release, I think, also says that you're potentially looking at other asset monetizations that have been impaired. Can you maybe discuss what those might be, potential, timelines on those opportunities? Thanks.
+
+Paul Middleton
+CFO
+0:32:54
+Yeah. Well, let me, let me say it this way. You know, if you go back the last couple of years, the themes that we've been talking about, you know, in some of these markets, you know, haven't kind of developed as fast as we thought. From an accounting standpoint, you go through your accounting exercises, and it kind of, you know, you land on the conclusions of what you conclude in your forecast and so forth to, you know, that may or may not create those impairments.
+
+Paul Middleton
+CFO
+0:33:20
+But, you know, we still we have an incredible portfolio of assets and opportunities that we can either look for alternative ways to monetize it, like the data center sales, or we still have opportunities in the pipeline, you know, in these different markets that can manifest. you know, as they start to manifest, and we really believe it's a question of when, you know. I mean, I don't think anybody doesn't believe markets like mobility and high-power stationary, just to pick a few, aren't going to happen. It's just, you know, a question of when. As those things start to unfold, we still have all of these assets that we can really, truly leverage.
+
+Paul Middleton
+CFO
+0:34:03
+It could be a combination of, you know, sales in those spaces, or it could be a combination of alternative uses that we look at. You know, it happens. It's just one of the ways that we're really, you know, centering in with how do we get the best value out this big asset portfolio in the short term.
+
+Chris Dendrinos
+VP
+0:34:23
+Got it. I guess maybe as a follow-up here, you know, you've got the $8 billion pipeline, and just trying to think through, you know, maybe how much of this year's outlook is secured by that pipe or maybe what's in the backlog and just how you're thinking about, you know, I guess, overall kind of confidence in the year given kind of existing commitments. Thanks.
+
+Jose Luis Crespo
+President and CEO
+0:34:52
+For the year, on the outlook that we just discussed, which it is a growth similar to what we saw in 2025, we have very high confidence of probably close to 80% of that revenue amount, and also high confidence that we would be able to close the additional 20%. Entering the year with that high backlog, if you wanna call it that way, it is a very good position to be able to project where we think we're gonna end the year. Obviously, you know, years advance as they go, but at this moment, we feel pretty confident on the projection that we just gave on similar growth as 2025.
+
+Chris Dendrinos
+VP
+0:35:45
+Got it. Thank you.
+
+Jose Luis Crespo
+President and CEO
+0:35:47
+You're welcome.
+
+Operator
+0:35:50
+Thank you. Our next question today is coming from Sherif Elmaghrabi from BTIG. Your line is now live.
+
+Sherif Elmaghrabi
+VP of Equity Research
+0:35:55
+Hey, thanks for taking my question. When you think about a potential hydrogen plant like New York versus the liquidity opportunity that presents, any insight you can share into how you balance that cash with, you know, your hydrogen, fuel demand two years down the road, five years down the road?
+
+Jose Luis Crespo
+President and CEO
+0:36:16
+Hi, Sherif. Thank you. Thank you for the question. We have looked very carefully at, you know, our hydrogen needs. The potential or the probability or the possibility to monetize the assets like we did that we're planning to do in New York. We mentioned this also in the prior earnings call. What we have been able to do is we have been able to get to an agreement with one of the largest agencies to provide hydrogen for us at reasonable cost, much better cost than what we were getting before.
+
+Jose Luis Crespo
+President and CEO
+0:37:00
+That added to the current capacity that we have right now, which is about 40 tons a day nominal capacity, and added to the possibility that we have also, and we are discussing with some customers that are planning to do liquefaction to take some offtake from those potential projects. We're comfortable that we have a good path to cover the demand in the next few years, based on our projections for growth, especially in the material handling market. We found that the capability to be able to monetize those assets was something that it was more valuable for Plug at this moment than making the investment of building a plant in New York.
+
+Jose Luis Crespo
+President and CEO
+0:37:50
+We have not, we put all those plans for growth, for production, on hold at this moment. That doesn't mean that in the future we may not pick up some of these plans when, you know, we are able to show that we can perform financially and may be able to finance these projects in a much more efficient way. At the moment, monetizing those projects and with the hydrogen availability that we have, visibility for, we feel that this is the best solution and the best path forward for Plug.
+
+Sherif Elmaghrabi
+VP of Equity Research
+0:38:26
+Got it. Thanks, Jose Luis. The one big beautiful bill act reinstated tax credits, but it also introduced stricter requirements for eligibility, and that's something that's been a supply chain headache for some renewables players. I'm wondering if Plug Power has had to retool its supply chain meaningfully.
+
+Jose Luis Crespo
+President and CEO
+0:38:50
+So, for the ITC, the Investment Tax Credit, what we have seen is that the requirements to be able to take advantage of the tax credit were meaningfully simplified from what they were before the bill that passed last year in Congress. At this moment, actually, this 30% tax credit has become even a simpler way for our customers to take advantage of, and we've been discussing with many of our customers on this and they agree on this point. You know, it's actually been an improvement on the tax credit process for our customers.
+
+Sherif Elmaghrabi
+VP of Equity Research
+0:39:39
+Very interesting. Hey, thanks again.
+
+Jose Luis Crespo
+President and CEO
+0:39:41
+No, thank you.
+
+Operator
+0:39:44
+Thank you. Next question is coming from Sameer Joshi from H.C. Wainwright. Your line is now live.
+
+Sameer Joshi
+Senior Equity Research Analyst
+0:39:49
+Hey, good afternoon, good evening. Thanks for taking my question.
+
+Jose Luis Crespo
+President and CEO
+0:39:52
+Hi, Sameer.
+
+Sameer Joshi
+Senior Equity Research Analyst
+0:39:52
+Hey, congrats on the new role, officially, the new role.
+
+Jose Luis Crespo
+President and CEO
+0:39:57
+Thank you.
+
+Sameer Joshi
+Senior Equity Research Analyst
+0:40:00
+So, I think, I just wanted to hit on two broad categories on revenues from material handling. Are we looking to add additional pedestal customers just like the flooring company that was the symposium? And then, how on the electrolyte front, electrolyzer front, the 8 GW pipeline that you spoke about, how is that planned to be converted into orders?
+
+Jose Luis Crespo
+President and CEO
+0:40:36
+Thank you, Sameer. On the material handling side, we are talking to many new potential customers. I think we're gonna see some new customers being signed. Some of them, like you mentioned, Floor & Decor, can be multi-site or what we call pedestal customers. There is an open door for new pedestal customers in 2026 and beyond. On the $8 billion funnel for electrolyzers, we continue working with many of the companies that we have in that funnel towards FID, towards the financial investment decision, final investment decision.
+
+Jose Luis Crespo
+President and CEO
+0:41:24
+What we're seeing in many cases is with some, especially in the European market, but also, as I said, we're gonna see some new opportunities closing in Australia, and we closed the opportunity in the U.K. with Carlton Power and Schroders at the end of last year, which will be executed this year. What we're seeing in the European market is that the RED III regulation is being converted into law in many of the countries in Europe, which requires a certain especially for the transportation sector, which requires a certain percentage of the hydrogen used for transportation purposes, including refineries, to convert to green hydrogen at a rate of about 1%, by 2030. This means that refineries like, you know, BP or Galp or other refineries in Europe are looking into ways to meet that those requirements.
+
+Jose Luis Crespo
+President and CEO
+0:42:26
+This is what is accelerating the investment decision in many of these projects. What we're gonna see is in the next 12-24 months. As the mandate becomes low, we're gonna see these projects coming to fruition, and we're expecting to take a fair share of that funnel. That is kind of the timeline that I'm looking at right now for conversion of the funnel.
+
+Sameer Joshi
+Senior Equity Research Analyst
+0:42:56
+Thanks for that color. On the margin front, I mean, really congratulations on the success on bringing margins down, especially on the services and also on the equipment. On the equipment sales going forward, should we see 1Q positive gross margins or because of lower revenues expected seasonally, margins will be still in sort of negative teens?
+
+Jose Luis Crespo
+President and CEO
+0:43:30
+You wanna go that, Paul?
+
+Sameer Joshi
+Senior Equity Research Analyst
+0:43:31
+For equipment in specific. Yeah.
+
+Paul Middleton
+CFO
+0:43:34
+Yeah. Sameer, hey bud. It's Paul. Yeah, I would say, if you just look at it mathematically with how Q1 typically is in relation to our annual sales on a seasonality standpoint, and you kind of apply that to the, you know the math that Jose shared with, looking at sales projections next year, you know, I think you'd see sequentially it's coming down from Q4. You know, it's should be, you know, probably better than, you know, in that range of the... that same percentage from last year's Q1. Just sequentially, with the lower volume, equipment really is tied to leverage. With... and most of it is just timing of those sales.
+
+Paul Middleton
+CFO
+0:44:22
+Without that incremental volume in the quarter, comparatively speaking, it's definitely, you know, gonna affect margin. You probably see a bit of a dip on the absolute and on the equipment margin in particular. There are some favorable events. You know, we definitely all the rooftop consolidations, all the things we've been doing last year, you know, that play well in terms of mitigating some of that. On the whole, yes, but probably directionally better, certainly better than Q1 last year. You're gonna see progress both on sales and margin, you know, quarter-over-quarter, I'm sorry, year-over-year on each quarter. You know, you probably. If you look at 1/3 of sales happening in the first half of the year.
+
+Jose Luis Crespo
+President and CEO
+0:45:07
+Yeah.
+
+Paul Middleton
+CFO
+0:45:07
+You know, 2/3 in the second half, you know, a lot of it is tied to volume. You know, when you look at what we've talked about for Q4 in particular, getting to that EBITDA positive, you know, range with kind of a $300 million sales proxy, it just gives you a tone of, you know, how that might play for the year. Hopefully that helps.
+
+Sameer Joshi
+Senior Equity Research Analyst
+0:45:30
+Yeah. No, no, that is really helpful. I wanted to reconfirm that, you're still targeting or from where you sit right now, you still are seeing 2/3 of the sales in second half, right?
+
+Jose Luis Crespo
+President and CEO
+0:45:43
+Yes.
+
+Paul Middleton
+CFO
+0:45:43
+Yes.
+
+Sameer Joshi
+Senior Equity Research Analyst
+0:45:45
+Got it. Okay. Thanks a lot for taking my questions.
+
+Jose Luis Crespo
+President and CEO
+0:45:48
+No, thank you.
+
+Operator
+0:45:51
+Thank you. As a reminder, that's star one to be placed into question queue. Our next question is coming from Chris Sung from Wolfe Research. Your line is now live.
+
+Chris Sung
+Wolfe Research Analyst
+0:46:00
+Hey, guys. good afternoon.
+
+Jose Luis Crespo
+President and CEO
+0:46:02
+Hi, Chris.
+
+Chris Sung
+Wolfe Research Analyst
+0:46:02
+Congrats. Hey, congrats, Jose, on first day on the job.
+
+Jose Luis Crespo
+President and CEO
+0:46:06
+Thank you.
+
+Chris Sung
+Wolfe Research Analyst
+0:46:11
+Most of my questions have already been asked, but I guess if, if you were to just provide some sort of guidance on your outlook for 2026, are you able to share the segment mix you're assuming across materials handling, electrolyzers, fueling, et cetera?
+
+Jose Luis Crespo
+President and CEO
+0:46:27
+It's gonna be similar to what we've seen in 2025. Probably, I will have to get the numbers a little bit more detailed in there, probably, material handling will be in the 30%-40% of revenues, right?
+
+Paul Middleton
+CFO
+0:46:52
+Yeah.
+
+Jose Luis Crespo
+President and CEO
+0:46:54
+You're gonna see a similar amount, probably a little bit less on electrolyzers, and then the rest is gonna be, you know, our fuel and cryo business. That's kind of the mix that we're gonna see. Material handling is still gonna be the largest revenue generator for the company in 2026.
+
+Chris Sung
+Wolfe Research Analyst
+0:47:16
+Right. That makes sense. Just to follow up on one of your responses earlier, about 80% of 2026 kind of not like firm or high confidence in the other 20%. Is that kind of is the right way to think about that the 20% are external factors for customers that need to hit like specific milestones or, like outside of your control? Or how do you think about that?
+
+Jose Luis Crespo
+President and CEO
+0:47:41
+That 20% is projects that we are in the process of closing right now, that probably we're looking into closing them, you know, in the next few months. That will secure the revenue for 2026. The other 80%, 77%-80% is what I calculated that we have in high probability are projects that we either have a firm commitment from the customer or it's being finalized, the commitment. That 20% is projects that are right now being negotiated, and we're expecting to close them within the year to be able to realize revenue within the year as well.
+
+Chris Sung
+Wolfe Research Analyst
+0:48:22
+All right, great. I'll turn over. Congrats again on the nice quarter.
+
+Jose Luis Crespo
+President and CEO
+0:48:25
+Well, thank you.
+
+Operator
+0:48:28
+Thank you. Next question today is coming from Ameet Thakkar from BMO Capital Markets. Your line is now live. Ameet, perhaps your phone is on mute. Please pick up your handset or take your phone-
+
+Ameet Thakkar
+Director and Equity Research Analyst
+0:48:43
+Hi. Thank you. Hi, good evening. Thanks for us squeezing me in. Just one quick one for for us. Hey, Jose, and congrats. Just you mentioned kind of momentum and kind of growing with your existing pedestal customers. You know, one of your larger pedestal customers, Walmart, you executed a release event license agreement with them earlier in this year. I was just wondering with your larger pedestal customers, to the extent they want to add more sites with you, do you anticipate kind of executing similar agreements with them before kind of doing so and throughout 2026? Thanks.
+
+Jose Luis Crespo
+President and CEO
+0:49:19
+Yeah. Are you referring to the licensing agreement? Yeah. No, that was a very specific agreement with Walmart, that, you know, we executed an agreement that actually, you know, will help us to continue building and growing the relationship with Walmart. I'm not expecting any similar agreements with any other customers in 2026.
+
+Ameet Thakkar
+Director and Equity Research Analyst
+0:49:49
+Okay. Just maybe one quick follow-up on a different topic. I know Mueve in Spain, in Andalusia, kinda greenlit a very large electrolyzer project today. Was just wondering if you guys have any kind of role in that project, while I have you. Thanks.
+
+Jose Luis Crespo
+President and CEO
+0:50:06
+No, that was a project that was announced earlier in 2024. It's been a project that has been out there for a while. It seems like it went FID this week, today. As far as I know, and I will have to kind of look at that, it is an alkaline project. It's a 300 MW alkaline project and we are not part of that project. We are talking to refineries in Spain about projects as well. That project in particular is a 2024 project that seems to be going FID at this moment. I think it's good news in terms of the conversion that we're gonna start seeing, as I was saying before, of projects to FID.
+
+Jose Luis Crespo
+President and CEO
+0:50:57
+These are projects that have been hanging for the last, you know, 24 months. Now they're coming to fruition. This is kind of what we're expecting to see in the near future with the projects that we have in our funnels.
+
+Ameet Thakkar
+Director and Equity Research Analyst
+0:51:11
+Great. Thank you.
+
+Jose Luis Crespo
+President and CEO
+0:51:13
+Thank you.
+
+Operator
+0:51:15
+Thank you. We've reached the end of our question and answer session. I'd like to turn the floor back over to Jose Luis for any further closing comments.
+
+Jose Luis Crespo
+President and CEO
+0:51:22
+Well, thank you everyone for the thoughtful questions, and for your continued engagement, and for joining us on my first earnings call as a CEO. Let me leave you with this. 2025 mark a structural turning point for Plug. We demonstrated that we can grow revenue while restoring margin discipline, and that combination matters. In 2026, our focus and targets are clear. Execute with discipline, reduce cash usage, and deliver EBITDAs positive in the fourth quarter. The foundation is in place. The cost structure is improving, and the demand drivers are strengthening. We really appreciate your support and look forward to updating you on our progress next quarter. Also, if you are free Friday, I'm gonna be closing the bell at Nasdaq.
+
+Jose Luis Crespo
+President and CEO
+0:52:23
+You, you can go to our website. You're gonna have a link to see me and a big part of the Plug team that has made the results this year, in 2025 possible, closing the bell with me. Thank you everyone. Really appreciate your time.
+
+Operator
+0:52:41
+Thank you. That does conclude today's teleconference and webcast. You may disconnect your line at this time, and have a wonderful day. We thank you for your participation today.
